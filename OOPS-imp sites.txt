@@ -1,0 +1,17 @@
+Sites to work on OOPS
+Objective
+https://www.vskills.in/practice/python-oop-test
+https://www.techbeamers.com/online-python-quiz-beginners-classes-objects/
+https://www.tutorialspoint.com/python/python_online_quiz.htm
+https://resume.mcalglobal.com/socialresume/user/take-quiz.htm?catid=python&nameid=python7
+https://thepythonguru.com/python-guru-quiz/
+https://tests4geeks.com/python-online-test
+http://www.mypythonquiz.com/
+https://pythonspot.com/python-tests-quizes/
+
+Hands-On
+https://www.codesdope.com/practice/python-your-class/
+https://www.hackerrank.com/domains/python
+https://www.w3resource.com/python-exercises/class-exercises/
+https://www.testdome.com/tests/python-online-test/45
+https://leetcode.com/problemset/all/
